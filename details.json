@@ -1,0 +1,23 @@
+{
+    "neha123": {
+        "username": "neha123",
+        "password": "neha123",
+        "name": "neha",
+        "age": 20,
+        "gender": "female"
+    },
+    "shivani123": {
+        "username": "shivani123",
+        "password": "shivani123",
+        "name": "shivani",
+        "age": 20,
+        "gender": "female"
+    },
+    "surya123": {
+        "username": "surya123",
+        "password": "surya123",
+        "name": "surya",
+        "age": 20,
+        "gender": "male"
+    }
+}
